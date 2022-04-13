@@ -516,8 +516,7 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    /* TODO */
-    opacity: 0;/* Opacité à 0 - A vérifier pour l'accessibilité */
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -678,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
