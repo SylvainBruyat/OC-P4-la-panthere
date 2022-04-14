@@ -825,6 +825,43 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.big-text--1 {
+    max-width: 650px;
+    min-height: 75px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+blockquote {
+    margin: 0;
+    padding: 0%;
+    border-left: none;
+}
+
+.citation {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1;
+}
+
+.big-text--2 {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+.big-text--3 {
+    max-width: 475px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 22px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
