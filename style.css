@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .6);
 }
 
 .d-bloc .panel button:hover,
@@ -862,8 +862,13 @@ blockquote {
     font-size: 22px;
 }
 
+#bloc-8 li {
+    line-height: 1.8;
+}
+
 #bloc-8 li a {
     color: black;
+    padding: 2px 0;
 }
 
 .white-text {
