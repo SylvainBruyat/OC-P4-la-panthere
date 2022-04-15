@@ -332,10 +332,10 @@ a:hover {
     text-align: inherit;
 }
 
-/* .nav > li a:hover,
+.nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
-} */
+}
 
 .navbar-toggle {
     margin: 10px 10px 0 0;
@@ -873,6 +873,14 @@ blockquote {
 
 .white-text {
     color: white!important;
+}
+
+#bloc-0 a:focus,
+#bloc-1-hero a:focus,
+#bloc-3-what-i-do a:focus,
+#bloc-5-cta a:focus,
+#bloc-8 a:focus {
+    border: 2px dashed black !important;
 }
 
 @media (max-width: 1024px) {
