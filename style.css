@@ -878,9 +878,11 @@ blockquote {
 #bloc-0 a:focus,
 #bloc-1-hero a:focus,
 #bloc-3-what-i-do a:focus,
+#bloc-4-portfolio a:focus,
 #bloc-5-cta a:focus,
+#bloc-7 button:focus,
 #bloc-8 a:focus {
-    border: 2px dashed black !important;
+    border: 2px dashed black;
 }
 
 @media (max-width: 1024px) {
